@@ -1,0 +1,37 @@
+{
+    "name": "Weather Dashboard",
+    "short_name": "Weather Dashboard",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A simple weather dashboard",
+    "icons": [{
+        "src": "/assets/images/icons/icon-72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+        },
+        {
+        "src": "/assets/images/icons/icon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+        },
+        {
+        "src": "/assets/images/icons/icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+        },
+        {
+        "src": "/assets/images/icons/icon-162x162.png",
+        "sizes": "162x162",
+        "type": "image/png"
+        },
+        {
+        "src": "/assets/images/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+        }
+    
+]
+
+
+}

@@ -1,0 +1,24 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "a simple weather dashboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fox-yokai/weather-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fox-yokai/weather-dashboard/issues"
+  },
+  "homepage": "https://github.com/fox-yokai/weather-dashboard#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
