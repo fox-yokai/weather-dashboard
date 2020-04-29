@@ -1,4 +1,3 @@
-// jquery method to have the HTML load before performing the JavaScript/jQuery
 $(document).ready(function() {
   // use jquery to assign a on click event to the button with an id of search button and then perform the function
   $("#search-button").on("click", function() {
